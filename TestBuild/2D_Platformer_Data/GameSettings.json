@@ -1,0 +1,11 @@
+{
+    "isFullscreen": true,
+    "Vsync": 0,
+    "screenWidth": 1920,
+    "screenHeight": 1080,
+    "framerate": 144,
+    "selectedFramerate": 0,
+    "selectedResolution": 0,
+    "musicVolume": 5.0,
+    "effectsVolume": 5.0
+}
